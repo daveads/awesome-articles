@@ -21,7 +21,7 @@ Table of Contents
 -----------------
 
 - [others](#others)
-- [Computer science related](#cs-related)
+- [Computer science](#cs-related)
 - [programmers](#programmers)
 
 
