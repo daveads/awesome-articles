@@ -23,6 +23,7 @@ Table of Contents
 - [others](#others)
 - [Computer science](#cs-related)
 - [programmers](#programmers)
+- [Web-dev](#Web-dev)
 
 
 Articles
@@ -68,4 +69,10 @@ Articles
 - [What Every Programmer Should know about Time](https://unix4lyfe.org/time/?v=1)
 - [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT MEMORY](https://akkadia.org/drepper/cpumemory.pdf) 
 - [LATENCY NUMBERS EVERY PROGRAMMER SHOULD KNOW](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+
+
+### Web-dev
+- [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+
+
 
