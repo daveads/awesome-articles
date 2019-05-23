@@ -5,7 +5,7 @@
 ------------
 
 This list contains links to articles written by developer's, computer scienctist,programmer, #like minded people.
-so if you have written an articles or came across acticles you feel every one should read feel free to add a link. 
+so if you have written articles or came across acticles you feel every one should read feel free to add a link. 
  
 
 
