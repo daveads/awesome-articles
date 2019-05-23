@@ -66,4 +66,6 @@ Articles
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
 - [What Every Developer Should Know about Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [What Every Programmer Should know about Time](https://unix4lyfe.org/time/?v=1)
+- [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT MEMORY](https://akkadia.org/drepper/cpumemory.pdf) 
+- [LATENCY NUMBERS EVERY PROGRAMMER SHOULD KNOW](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 
