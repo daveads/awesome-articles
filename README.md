@@ -24,6 +24,7 @@ Table of Contents
 - [Computer science](#cs-related)
 - [programmers](#programmers)
 - [Web-dev](#Web-dev)
+- [languages]()
 
 
 Articles
@@ -72,6 +73,7 @@ Articles
 - [LATENCY NUMBERS EVERY PROGRAMMER SHOULD KNOW](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [Cutting through to what matters](https://ozwrites.com/knives/)
 - [Learn every language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
+- [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
