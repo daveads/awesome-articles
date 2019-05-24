@@ -20,12 +20,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 Table of Contents
 -----------------
 
-- [others](#others)
 - [Computer science](#cs-related)
 - [programmers](#programmers)
 - [Web-dev](#Web-dev)
 - [Programming Languages]()
-
+- [others](#others)
 
 Articles
 -------
