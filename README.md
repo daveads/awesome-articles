@@ -17,21 +17,26 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/Daveads/awesome-articles)
 + [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/Daveads/awesome-articles)
 
-Table of Contents
------------------
 
+
+---------------------
+Table of Contents
+---------------------
+### Dev
 - [Computer science](#cs-related)
 - [programmers](#programmers)
 - [Web-dev](#Web-dev)
-- [Programming Languages]()
 - [others](#others)
 
 ### PLATFORMS
 - [Medium]()
 - [Dev.to]()
+- [Programming Languages]()
 
+
+--------------------
 Articles
--------
+--------------------
 
 ### cs-related
 - [what cs majors should know](http://matt.might.net/articles/what-cs-majors-should-know/)
