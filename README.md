@@ -28,6 +28,7 @@ Table of Contents
 
 ### PLATFORMS
 - [Medium]()
+- [Dev.to]()
 
 Articles
 -------
