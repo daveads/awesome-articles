@@ -24,7 +24,7 @@ Table of Contents
 - [Computer science](#cs-related)
 - [programmers](#programmers)
 - [Web-dev](#Web-dev)
-- [languages]()
+- [Programming Languages]()
 
 
 Articles
