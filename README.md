@@ -15,7 +15,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Share
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/Daveads/awesome-articles)
-
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/Daveads/awesome-articles)
 
 Table of Contents
 -----------------
