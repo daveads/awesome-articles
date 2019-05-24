@@ -14,7 +14,7 @@ so if you have written articles or came across acticles you feel every one shoul
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### How to Share
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/)
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/Daveads/awesome-articles)
 
 
 Table of Contents
