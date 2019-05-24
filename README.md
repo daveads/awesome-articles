@@ -31,8 +31,9 @@ Articles
 
 ### cs-related
 - [what cs majors should know](http://matt.might.net/articles/what-cs-majors-should-know/)
-- [teaching your self computer science](https://teachyourselfcs.com/)
+- [Teaching your self computer science](https://teachyourselfcs.com/)
 - [Floating-point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) : what Every computer Scientist should know About Floating Point Arithmetic
+- [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
 
 
 
@@ -69,7 +70,8 @@ Articles
 - [What Every Programmer Should know about Time](https://unix4lyfe.org/time/?v=1)
 - [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT MEMORY](https://akkadia.org/drepper/cpumemory.pdf) 
 - [LATENCY NUMBERS EVERY PROGRAMMER SHOULD KNOW](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
-
+- [Cutting through to what matters](https://ozwrites.com/knives/)
+- [Learn every language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
