@@ -9,7 +9,7 @@ so if you have written articles or came across acticles you feel every one shoul
  
 
 
-### Contribute
+### TO Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
