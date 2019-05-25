@@ -1,3 +1,4 @@
+
 # Awesome-articles-a-programmer-should-read [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -88,3 +89,10 @@ Articles
 
 ### MUST READ
 - [Cutting through to what matters](https://ozwrites.com/knives/)
+
+
+-----------------
+### LICENSE
+-----------------
+MIT
+-----------------
