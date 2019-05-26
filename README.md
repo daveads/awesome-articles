@@ -33,7 +33,7 @@ Table of Contents
 - [programmers](#programmers)
 - [Web-dev](#Web-dev)
 - [others](#others)
-- [must-read](#MUST READ)
+- [must-read](#Must-read)
 
 ### PLATFORMS
 - [Medium]()
@@ -93,7 +93,7 @@ Articles
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 
 
-### MUST READ
+### Must-read
 - [Cutting through to what matters](https://ozwrites.com/knives/)
 
 
