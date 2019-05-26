@@ -1,5 +1,7 @@
-<p align="center"><img width=12.5% src="icon.jpg"></p>
-
+<p align="center"><img width=50% src="icon.jpg"></br>
+<img width=50% src="articles.jpg">
+</p>
+ 
 # Awesome-articles-a-programmer-should-read [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
