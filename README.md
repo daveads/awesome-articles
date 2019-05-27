@@ -51,6 +51,7 @@ Articles
 - [Floating-point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) : what Every computer Scientist should know About     	Floating Point Arithmetic
 - [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+- [What's new in CPUs since the 80's?](https://danluu.com/new-cpu-features/)
 
 
 
