@@ -81,6 +81,7 @@ Articles
 - [Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel) : Kernel 101 – Let’s write a Kernel
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) : online version of the Learning JavaScript Design Patterns published by O'Reilly, released by the author Addy Osmani under CC BY-NC-ND 3.0
 - [Working with Webhooks](https://requestbin.com/blog/working-with-webhooks/) : a comprehensive guide on webhooks
+- [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
 ### programmers
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
@@ -90,6 +91,7 @@ Articles
 - [LATENCY NUMBERS EVERY PROGRAMMER SHOULD KNOW](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - [Learn every language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
 - [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
+- [Real Programmer](http://wiki.c2.com/?RealProgrammer)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
