@@ -104,5 +104,5 @@ Articles
 -----------------
 ### LICENSE
 -----------------
-[MIT](https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/LICENSE)
+[Mit](https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/LICENSE)
 -----------------
