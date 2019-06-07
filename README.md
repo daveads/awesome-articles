@@ -1,5 +1,5 @@
 <p 
-align="center"><img width=100% height="200" src="articles.jpg">
+align="center"><img width=100% height="250" src="articles.jpg">
 </p>
 
 <img align="right" src="https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/icon.jpg" />
