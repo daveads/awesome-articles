@@ -32,7 +32,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 
 ---------------------
-Table of Contents
+Index
 ---------------------
 ### Dev
 - [Computer science](#cs-related)
