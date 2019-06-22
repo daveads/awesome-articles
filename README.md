@@ -1,5 +1,5 @@
 <p 
-align="center"><img width=100% height="250" src="articles.jpg">
+align="center"><img width=100% height="270" src="articles.jpg">
 </p>
 
 <img align="right" src="https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/icon.jpg" />
@@ -20,8 +20,8 @@ so if you have written articles or came across acticles you feel every one shoul
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ### Share
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/Daveads/awesome-articles)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/Daveads/awesome-articles)
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/Daveads/awesome-articles-a-programmer-should-read)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/Daveads/awesome-articles-a-programmer-should-read)
 
 
 
@@ -84,7 +84,7 @@ Articles
 - [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
 ### programmers
-- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : article for knowing what our level as a programmer is.
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) : knowing what your level as a programmer is.
 - [What Every Developer Should Know about Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [What Every Programmer Should know about Time](https://unix4lyfe.org/time/?v=1)
 - [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT MEMORY](https://akkadia.org/drepper/cpumemory.pdf) 
