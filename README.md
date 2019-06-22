@@ -1,7 +1,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="190" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
 </h1>
 <p 
@@ -106,7 +106,8 @@ Articles
 ### Must-read
 - [Cutting through to what matters](https://ozwrites.com/knives/)
 
-
+### Related lists
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 -----------------
 ### LICENSE
 -----------------
