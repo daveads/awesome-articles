@@ -1,7 +1,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="250" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
+	<img width="190" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
 </h1>
 <p 
