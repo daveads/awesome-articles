@@ -98,6 +98,7 @@ Articles
 - [Learn every language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
 - [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
 - [Real Programmer](http://wiki.c2.com/?RealProgrammer)
+- [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
