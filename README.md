@@ -100,6 +100,7 @@ Articles
 - [WHAT EVERY PROGRAMMER SHOULD KNOW ABOUT SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
 - [Real Programmer](http://wiki.c2.com/?RealProgrammer)
 - [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+- [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
