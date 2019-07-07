@@ -51,7 +51,7 @@ Index
 Articles
 --------------------
 
-### cs-related
+### cs
 - [what cs majors should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [Teaching your self computer science](https://teachyourselfcs.com/)
 - [Floating-point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) : what Every computer Scientist should know About     	Floating Point Arithmetic
@@ -59,6 +59,7 @@ Articles
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [What's new in CPUs since the 80's?](https://danluu.com/new-cpu-features/)
 - [The Programming Process](http://www.cs.bham.ac.uk/~rxb/java/intro/2programming.html)
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 
 
