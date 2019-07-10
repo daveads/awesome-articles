@@ -43,8 +43,8 @@ Index
 
 ### PLATFORMS
 - [Medium](#meduim-articles)
-- [Dev.to]()
-- [Programming Languages]()
+- [Dev.to](#)
+- [Programming Languages](#)
 
 
 --------------------
@@ -102,7 +102,7 @@ Articles
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - [Design Thinking as a Strategy for Innovation](https://www.creativityatwork.com/design-thinking-strategy-for-innovation/)
 
-###meduim-articles
+### meduim-articles
 - [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 
 ### Web-dev
