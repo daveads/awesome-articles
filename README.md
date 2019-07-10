@@ -42,7 +42,7 @@ Index
 - [must-read](#Must-read)
 
 ### PLATFORMS
-- [Medium]()
+- [Medium](#meduim-articles)
 - [Dev.to]()
 - [Programming Languages]()
 
@@ -59,7 +59,6 @@ Articles
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [What's new in CPUs since the 80's?](https://danluu.com/new-cpu-features/)
 - [The Programming Process](http://www.cs.bham.ac.uk/~rxb/java/intro/2programming.html)
-- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 
 
@@ -101,6 +100,10 @@ Articles
 - [Real Programmer](http://wiki.c2.com/?RealProgrammer)
 - [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
+- [Design Thinking as a Strategy for Innovation](https://www.creativityatwork.com/design-thinking-strategy-for-innovation/)
+
+###meduim-articles
+- [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
@@ -108,11 +111,13 @@ Articles
 
 ### Must-read
 - [Cutting through to what matters](https://ozwrites.com/knives/)
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+
 
 ### Related lists
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 -----------------
 ### LICENSE
 -----------------
-[Mit](https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/LICENSE)
+[Mit License](https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/LICENSE)
 -----------------
