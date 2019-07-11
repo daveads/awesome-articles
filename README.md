@@ -43,7 +43,7 @@ Index
 
 ### PLATFORMS
 - [Medium](#meduim-articles)
-- [Dev.to](#)
+- [Dev.to](#dev.to)
 - [Programming Languages](#)
 
 
@@ -101,9 +101,13 @@ Articles
 - [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - [Design Thinking as a Strategy for Innovation](https://www.creativityatwork.com/design-thinking-strategy-for-innovation/)
+- [Hard Work and Practice in Programming](http://radar.oreilly.com/2008/12/hard-work-and-practice-in-programming.html)
 
 ### meduim-articles
 - [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
+
+### dev.to
+- [](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc#theproblemwithcpuintensivetasks)
 
 ### Web-dev
 - [WHAT SHOULD EVERY PROGRAMMER KNOW ABOUT WEB DEVELOPMENT?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
