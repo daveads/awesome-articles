@@ -35,7 +35,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 Index
 ---------------------
 ### Dev
-- [Computer science](#cs-related)
+- [Computer science](#cs)
 - [programmers](#programmers)
 - [Web-dev](#Web-dev)
 - [others](#others)
