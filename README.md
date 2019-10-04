@@ -116,7 +116,7 @@ Articles
 ### Must-read
 - [Cutting through to what matters](https://ozwrites.com/knives/)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
-
+- [Beating the Averages](http://www.paulgraham.com/avg.html)
 
 ### Related lists
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
