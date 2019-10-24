@@ -117,6 +117,7 @@ Articles
 - [Cutting through to what matters](https://ozwrites.com/knives/)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [Beating the Averages](http://www.paulgraham.com/avg.html)
+- [what happens when](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
 
 ### Related lists
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
