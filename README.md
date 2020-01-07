@@ -59,6 +59,7 @@ Articles
 - [40 Keys Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 - [What's new in CPUs since the 80's?](https://danluu.com/new-cpu-features/)
 - [The Programming Process](http://www.cs.bham.ac.uk/~rxb/java/intro/2programming.html)
+- [CS_Resources](https://daveads.netlify.com/2019-07-07-Computer-Science-Resources/)
 
 
 
