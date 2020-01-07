@@ -10,7 +10,7 @@ align="center"><img width=100% height="270" src="articles.jpg">
 
 <img align="right" src="https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/icon.jpg" />
 
-# Awesome-articles-a-programmer-should-read [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-articles-for-programmers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ### AWESOME ARTICLES 
@@ -118,6 +118,7 @@ Articles
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [Beating the Averages](http://www.paulgraham.com/avg.html)
 - [what happens when](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
+ 
 
 ### Related lists
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
