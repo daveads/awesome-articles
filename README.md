@@ -40,6 +40,7 @@ Index
 - [Web-dev](#Web-dev)
 - [others](#others)
 - [must-read](#Must-read)
+- [Startup](#Startup)
 
 ### PLATFORMS
 - [Medium](#meduim-articles)
@@ -103,6 +104,7 @@ Articles
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - [Design Thinking as a Strategy for Innovation](https://www.creativityatwork.com/design-thinking-strategy-for-innovation/)
 - [Hard Work and Practice in Programming](http://radar.oreilly.com/2008/12/hard-work-and-practice-in-programming.html)
+- [12 resolutions for programmers]()
 
 ### meduim-articles
 - [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
@@ -119,6 +121,11 @@ Articles
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [Beating the Averages](http://www.paulgraham.com/avg.html)
 - [what happens when](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
+
+
+### Startup
+- [how do people get new ideas](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
+- [Lecture On Creativity](https://genius.com/John-cleese-lecture-on-creativity-annotated)
  
 
 ### Related lists
