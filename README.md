@@ -5,13 +5,13 @@ align="center"><img width=100% height="270" src="articles.jpg">
 
 <img align="right" src="https://github.com/Daveads/awesome-articles-a-programmer-should-read/blob/master/icon.jpg" />
 
-# Awesome-articles-for-programmers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# ARTICLES [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ### AWESOME ARTICLES 
 ------------
 
-This list contains links to articles written by developer's, computer scienctist,programmer, #like minded people.
+This list contains links to articles written by developer's, computer scientist, programmer, #like minded people.
 so if you have written articles or came across acticles you feel every one should read feel free to add a link. 
  
 
